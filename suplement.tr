@@ -1,0 +1,55 @@
+.so mn.tmac
+.de #
+.sp
+.ad c
+.rps +6
+\fB\\$*\fR
+.rps
+.br
+.ad b
+.sp
+..
+.de ##
+.rps +4
+\fB\\$*\fR
+.rps
+..
+.de sprawnosc
+.PDF \\$1
+..
+.ps 12
+.vs 16
+.fp - R CenturyGothic
+.fp - I CenturyGothic
+.fp - B CenturyGothicBold
+.fp - BI CenturyGothicBoldItalic
+
+.title "Suplement sprawności"
+.sp 0.5
+.author "IV Poznański Hufiec Harcerzy “Rotunda”"
+
+Ten suplement zawiera kilka dodatkowych sprawności.
+
+.# Sprawności
+
+.so sprawnosci.tr
+
+.bp
+
+
+
+
+.# Próby dla wywiadowców
+
+W naszych środowiskach wyszło się z założenia, że można się podejmować prób dopiero, gdy się zdobędzie ćwika. A ponieważ \f(BIkto ducha harcu nie pozna, harcerzem nie będzie\fR potrzebne były też próby dla młodszych harcerzy. Takie ot stopniowanie trudności.
+
+.so proby-wyw.tr
+
+.bp
+
+
+
+
+.# Próby
+
+.so proby.tr

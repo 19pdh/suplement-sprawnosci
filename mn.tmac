@@ -1,0 +1,37 @@
+.\" Macros for documents
+.\"so tmac.post
+.so /home/pn/.local/src/neatroff_make/tmac/tmac.post
+
+.de fontmargin
+.nr mn_margin \\$1
+.vs \\n[.ps]+\\n[mn_margin]
+..
+.de fontsize
+.ps \\$1
+.nr mn_pointsize \\n[.ps]
+.vs \\n[.ps]+\\n[mn_margin]
+..
+.de rps
+.\" Relative Point Size
+.ps \\$1
+.vs \\$1
+..
+
+.de title
+.post.title "\\$1"
+.ds mn_title \\$1
+.rps +10
+\fB\\*[mn_title]\fR
+.br
+.rps
+..
+
+.de author
+.post.author "\\$1"
+.ds mn_author \\$1
+\\*[mn_author]
+.br
+..
+
+.ps 16
+.vs 18
