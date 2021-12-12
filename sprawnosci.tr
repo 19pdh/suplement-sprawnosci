@@ -1,17 +1,60 @@
-.## Wędkarstwo
+.## WĘDKARSTWO
 
-.## Kostka rubika
 
-.## Łucznictwo
+.## ŁUCZNICTWO
+.bp
+
+
+
+
+.## KOSTKA RUBIKA
+.br
+.tagi #kostka #rubika #na_czas #turniej #3x3
+
+.krazek kostek.pdf
+.po +10
+.ll -10
+\fB* Kostek\fR
+
+● Potrafi ułożyć kostkę rubika.
+.br
+.po -10
+.ll +10
+.sp 4
+
+.krazek rubik.pdf
+.po +10
+.ll -10
+\fB** Rubik\fR
+
+● Potrafi ułożyć 3 różne rodzaje kostki rubika.
+.br
+● Potrafi ułożyć kostkę 3x3 w 5 minut.
+.br
+.po -10
+.ll +10
+.sp 3
+
+.krazek mistrz-kostki.pdf
+.po +10
+.ll -10
+\fB*** Mistrz Kostki\fR
+
+● Wystąpi w zawodach układania kostki rubika na czas.
+.br
+● Potrafi ułożyć kostkę bez patrzenia (z pamięci).
+.br
+.po -10
+.ll +10
 
 .bp
 
 
 
 
-.## Organizacja zbiórek
+.## ORGANIZACJA ZBIÓREK
 .br
-\m[#2b2]#awangarda #zastępowy #wódz #co_dziś_robimy\m[#000]
+.tagi #awangarda #zastępowy #wódz #co_dziś_robimy
 
 Gdybym mógł wybierać miejsce, które chciałbym zajmować w ruchu, to chciałbym być zastępowym.
 .br
@@ -23,10 +66,7 @@ gen. Robert Baden-Powell
 
 \f(BISprawności z tego drzewka przyznawane są w ramach kursu zastępowych naszego hufca. Każdy może zawsze i wszędzie zdobywać tą sprawność, ale przyznawana ona jest tylko raz w roku, na apelu kończącym kurs zastępowych\fR
 
-
-.mk
-.PDF krazki/awangarda.pdf L 1000
-.rt
+.krazek awangarda.pdf
 .po +10
 .ll -10
 \fB* Awangarda I\fR
@@ -36,13 +76,11 @@ gen. Robert Baden-Powell
 ● Potrafi rozpisać cykl 4 zbiórek, którego efektem jest zdobycie umiejętności na wybraną sprawność.
 .br
 ● Potrafi zaplanować i przeprowadzić grę na nauczenie i sprawdzenie wybranej umiejętności.
-
+.br
 .po -10
 .ll +10
 
-.mk
-.PDF krazki/awangarda.pdf L 1000
-.rt
+.krazek awangarda.pdf
 .po +10
 .ll -10
 \fB** Awangarda II\fR
@@ -51,8 +89,6 @@ gen. Robert Baden-Powell
 .br
 ● Potrafi przygotować i przeprowadzić grę, która wyłoni  najlepszy zastęp w wybranej technice
 .br
-.po -10
-.ll +10
 ● Potrafi ocenić zbiórkę pod względem skuteczności i Zasad Dobrej Zbiórki oraz dać pomysł na ulepszenie planu.
 .br
 .po +4
@@ -61,10 +97,10 @@ Np.: Zakradnij się na zbiórkę zastępu jednego z kursantów i zanotuj co harc
 .br
 .po -4
 .ll +4
+.po -10
+.ll +10
 
-.mk
-.PDF krazki/awangarda.pdf L 1000
-.rt
+.krazek awangarda.pdf
 .po +10
 .ll -10
 \fB*** Awangarda III\fR

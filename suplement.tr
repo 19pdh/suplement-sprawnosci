@@ -10,12 +10,18 @@
 .sp
 ..
 .de ##
-.rps +4
+.rps +8
 \fB\\$*\fR
 .rps
 ..
-.de sprawnosc
-.PDF \\$1
+.de tagi
+\m[#2b2]\\$*\m[#000]
+..
+.de krazek
+.mk
+.sp -1
+.PDF krazki/\\$1 L 1200
+.rt
 ..
 .ps 12
 .vs 16
@@ -23,14 +29,24 @@
 .fp - I CenturyGothic
 .fp - B CenturyGothicBold
 .fp - BI CenturyGothicBoldItalic
+.\" A4 width 8.26in
+.po 0.8in
+.ll 6.66in
 
+.ad c
+.sp 14
 .title "Suplement sprawności"
 .sp 0.5
 .author "IV Poznański Hufiec Harcerzy “Rotunda”"
 
-Ten suplement zawiera kilka dodatkowych sprawności.
+Poznań, 2021
 
-.# Sprawności
+.ad b
+
+.bp
+
+
+
 
 .so sprawnosci.tr
 
