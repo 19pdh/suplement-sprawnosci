@@ -5,5 +5,5 @@
 ## PDF:
 
 ```
-neatroff -mpost suplement.tr | neatpdf -pa4 > suplement.pdf
+neatroff -Ffonts -mpost suplement.tr | neatpdf -pa4 > suplement.pdf
 ```
