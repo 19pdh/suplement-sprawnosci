@@ -1,5 +1,6 @@
 .so mn.tmac
 .de #
+.post.mark "\\$*"
 .sp
 .ad c
 .rps +6
@@ -10,6 +11,7 @@
 .sp
 ..
 .de ##
+.post.mark "\\$*"
 .rps +8
 \fB\\$*\fR
 .rps
@@ -51,14 +53,6 @@ Poznań, 2021
 .so sprawnosci.tr
 
 .bp
-
-
-
-
-.# Próby dla wywiadowców
-
-W naszych środowiskach wyszło się z założenia, że można się podejmować prób dopiero, gdy się zdobędzie ćwika. A ponieważ \f(BIkto ducha harcu nie pozna, harcerzem nie będzie\fR potrzebne były też próby dla młodszych harcerzy. Takie ot stopniowanie trudności.
-
 .so proby-wyw.tr
 
 .bp

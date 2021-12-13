@@ -1,0 +1,929 @@
+name CenturyGothic
+fontname CenturyGothic
+fontpath /home/pn/.local/src/neatroff_make/fonts/CenturyGothic.ttf
+spacewidth 28
+char ---	75,13,0,63,63	3	.notdef	
+char ---	0	3	.null	
+char ---	28	3	nonmarkingreturn	
+char ---	28	0	space	32
+char !	30,9,-1,21,74	2	exclam	33
+char "	31,2,51,29,74	2	quotedbl	34
+char dq	"
+char #	72,9,0,63,74	2	numbersign	35
+char $	55,4,-17,52,77	2	dollar	36
+char %	78,2,-5,75,75	2	percent	37
+char &	76,9,-2,73,69	2	ampersand	38
+char aq	20,6,51,14,74	3	quotesingle	
+char (	37,13,-21,31,75	3	parenleft	40
+char )	37,6,-21,24,75	3	parenright	41
+char *	43,4,39,38,74	2	asterisk	42
+char +	61,6,11,55,60	0	plus	43
+char pl	"
+char ,	28,6,-8,21,13	1	comma	44
+char ­	33,3,24,30,30	3	hyphen	
+char .	28,9,-1,21,11	0	period	46
+char /	44,4,-10,41,74	2	slash	47
+char sl	"
+char 0	55,3,-2,52,74	2	zero	48
+char 1	55,14,0,33,72	2	one	49
+char 2	55,3,0,52,74	2	two	50
+char 3	55,4,-2,52,74	2	three	51
+char 4	55,3,0,53,74	2	four	52
+char 5	55,4,-2,51,72	2	five	53
+char 6	55,7,-2,51,74	2	six	54
+char 7	55,7,-2,53,72	2	seven	55
+char 8	55,3,-2,52,74	2	eight	56
+char 9	55,5,-2,49,74	2	nine	57
+char :	28,9,-1,21,55	0	colon	58
+char ;	28,6,-8,21,55	3	semicolon	
+char <	61,5,10,56,62	0	less	60
+char =	61,6,22,55,50	0	equal	61
+char eq	"
+char >	61,5,10,56,62	0	greater	62
+char ?	59,8,-1,50,74	2	question	63
+char @	87,7,-1,80,75	3	at	64
+char A	74,2,0,72,72	2	A	65
+char B	57,9,0,52,72	2	B	66
+char C	81,5,-2,76,74	2	C	67
+char D	74,9,0,69,72	2	D	68
+char E	54,9,0,50,72	2	E	69
+char F	49,9,0,45,72	2	F	70
+char G	87,6,-2,82,74	2	G	71
+char H	68,9,0,60,72	2	H	72
+char I	23,8,0,15,72	2	I	73
+char J	48,4,-2,40,72	3	J	74
+char K	59,9,0,57,72	2	K	75
+char L	46,9,0,44,72	2	L	76
+char M	92,6,0,86,72	2	M	77
+char N	74,9,0,65,72	2	N	78
+char O	87,6,-2,81,74	2	O	79
+char P	59,9,0,54,72	2	P	80
+char Q	87,6,-6,81,74	3	Q	81
+char R	61,9,0,55,72	2	R	82
+char S	50,1,-2,43,74	2	S	83
+char T	43,2,0,41,72	2	T	84
+char U	66,9,-2,57,72	2	U	85
+char V	70,3,0,67,72	2	V	86
+char W	96,5,0,91,72	2	W	87
+char X	61,3,0,58,72	2	X	88
+char Y	59,3,0,56,72	2	Y	89
+char Z	48,3,0,44,72	2	Z	90
+char [	35,14,-19,31,74	3	bracketleft	91
+char \	61,3,-10,57,74	2	backslash	92
+char bs	"
+char rs	"
+char ]	35,5,-19,21,74	3	bracketright	93
+char ha	67,6,18,61,72	3	asciicircum	
+char _	50,-1,-13,51,-8	1	underscore	95
+char ru	"
+char ul	"
+char ga	38,5,63,27,78	3	grave	
+char \`	"
+char a	68,5,-1,61,55	0	a	97
+char b	68,8,-1,63,74	2	b	98
+char c	65,5,-1,59,55	0	c	99
+char d	69,5,-1,61,74	2	d	100
+char e	65,5,-1,60,55	0	e	101
+char f	31,4,0,30,75	2	f	102
+char g	67,5,-21,60,55	1	g	103
+char h	61,8,0,54,74	2	h	104
+char i	20,4,0,16,75	2	i	105
+char j	20,-3,-21,16,75	3	j	106
+char k	50,8,0,51,74	2	k	107
+char l	20,7,0,13,74	2	l	108
+char m	94,8,0,87,55	0	m	109
+char n	61,8,0,54,55	0	n	110
+char o	66,5,-1,60,55	0	o	111
+char p	68,8,-19,63,55	1	p	112
+char q	68,5,-19,61,55	1	q	113
+char r	30,5,0,32,55	0	r	114
+char s	39,3,-1,34,55	0	s	115
+char t	34,4,0,31,73	2	t	116
+char u	61,7,-1,53,53	0	u	117
+char v	55,3,0,53,53	0	v	118
+char w	83,0,0,83,53	0	w	119
+char x	48,0,0,48,53	0	x	120
+char y	54,2,-19,52,53	1	y	121
+char z	43,0,0,42,53	0	z	122
+char {	35,4,-22,32,72	1	braceleft	123
+char |	67,30,-19,37,74	3	bar	124
+char or	"
+char }	35,3,-22,31,72	1	braceright	125
+char ti	61,6,28,55,44	0	asciitilde	
+char Ä	74,2,0,72,89	2	Adieresis	
+char A:	"
+char A"	"
+char Å	74,2,0,72,97	2	Aring	
+char A*	"
+char Ç	81,5,-19,76,74	3	Ccedilla	
+char C,	"
+char É	54,9,0,50,93	2	Eacute	
+char E'	"
+char Ñ	74,9,0,65,89	2	Ntilde	
+char N~	"
+char Ö	87,6,-2,81,89	2	Odieresis	
+char O:	"
+char Ü	66,9,-2,57,89	2	Udieresis	
+char U:	"
+char á	68,5,-1,61,78	2	aacute	
+char a'	"
+char à	68,5,-1,61,78	2	agrave	
+char a`	"
+char â	68,5,-1,61,75	2	acircumflex	
+char a^	"
+char ä	68,5,-1,61,74	2	adieresis	
+char a:	"
+char ã	68,5,-1,61,74	2	atilde	
+char a~	"
+char å	68,5,-1,61,83	2	aring	
+char a*	"
+char ç	65,5,-19,59,55	1	ccedilla	
+char c,	"
+char é	65,5,-1,60,78	2	eacute	
+char e'	"
+char è	65,5,-1,60,78	2	egrave	
+char e`	"
+char ê	65,5,-1,60,75	2	ecircumflex	
+char e^	"
+char ë	65,5,-1,60,74	2	edieresis	
+char e:	"
+char í	20,3,0,24,78	2	iacute	
+char i'	"
+char ì	20,-4,0,18,78	2	igrave	
+char i`	"
+char î	20,-8,0,28,75	2	icircumflex	
+char i^	"
+char ï	20,-6,0,26,74	2	idieresis	
+char i:	"
+char ñ	61,8,0,54,74	2	ntilde	
+char n~	"
+char ó	66,5,-1,60,78	2	oacute	
+char o'	"
+char ò	66,5,-1,60,78	2	ograve	
+char o`	"
+char ô	66,5,-1,60,75	2	ocircumflex	
+char o^	"
+char ö	66,5,-1,60,74	2	odieresis	
+char o:	"
+char õ	66,5,-1,60,74	2	otilde	
+char o~	"
+char ú	61,7,-1,53,78	2	uacute	
+char u'	"
+char ù	61,7,-1,53,78	2	ugrave	
+char u`	"
+char û	61,7,-1,53,75	2	ucircumflex	
+char u^	"
+char ü	61,7,-1,53,74	2	udieresis	
+char u:	"
+char †	55,8,-15,48,74	2	dagger	
+char dg	"
+char °	40,3,40,37,74	2	degree	
+char 0^	"
+char de	"
+char ¢	55,5,-14,53,65	0	cent	
+char c|	"
+char ct	"
+char £	55,3,-2,53,74	2	sterling	
+char L-	"
+char ps	"
+char §	62,6,-21,49,75	3	section	
+char so	"
+char sc	"
+char •	61,15,21,45,51	0	bullet	
+char bu	"
+char ¶	56,5,-11,50,74	2	paragraph	
+char P!	"
+char pg	"
+char ß	55,8,-1,50,75	2	germandbls	
+char ss	"
+char ®	75,-1,-1,76,75	2	registered	
+char ro	"
+char rg	"
+char ©	75,-1,-1,76,75	2	copyright	
+char co	"
+char ™	100,1,32,96,74	2	trademark	
+char ´	38,11,63,33,78	2	acute	
+char aa	"
+char \'	"
+char ¨	37,3,63,34,74	2	dieresis	
+char ""	"
+char :a	"
+char ≠	55,3,-2,52,74	2	notequal	
+char !=	"
+char Æ	99,0,0,91,72	0	AE	
+char AE	"
+char Ø	87,6,-5,81,75	2	Oslash	
+char O/	"
+char ∞	71,7,19,64,51	0	infinity	
+char if	"
+char ±	55,3,1,52,66	0	plusminus	
+char +-	"
+char ≤	55,2,5,53,69	0	lessequal	
+char <=	"
+char ≥	55,2,5,53,69	0	greaterequal	
+char >=	"
+char ¥	55,3,0,52,72	0	yen	
+char Y-	"
+char yn	"
+char µ	58,7,-19,50,53	1	mu1	
+char /u	"
+char *m	"
+char μ	"
+char ∂	49,3,-1,48,73	2	partialdiff	
+char pd	"
+char ∑	71,6,-21,68,75	3	summation	
+char su	"
+char ∏	82,8,-21,74,75	3	product	
+char pr	"
+char 	55,0,0,55,52	0	pi	
+char ∫	27,0,-11,27,91	2	integral	
+char is	"
+char ª	37,3,39,32,74	2	ordfeminine	
+char a_	"
+char º	37,3,39,34,74	2	ordmasculine	
+char o_	"
+char Ω	77,6,0,72,73	2	Ohm	
+char Ω	"
+char *W	"
+char æ	116,6,-1,110,55	0	ae	
+char ae	"
+char ø	65,5,-4,60,55	0	oslash	
+char o/	"
+char ¿	59,9,-21,51,54	1	questiondown	
+char ??	"
+char r?	"
+char ¡	30,9,-21,21,54	1	exclamdown	
+char !!	"
+char r!	"
+char ¬	61,6,22,55,50	0	logicalnot	
+char -,	"
+char no	"
+char √	55,4,-4,55,91	2	radical	
+char sr	"
+char ƒ	55,2,-21,46,75	3	florin	
+char fn	"
+char ≈	55,3,19,52,53	0	approxequal	
+char ~~	"
+char ∆	61,1,0,60,68	0	Delta	
+char *D	"
+char Δ	"
+char «	43,1,0,42,53	0	guillemotleft	
+char <<	"
+char Fo	"
+char »	43,1,0,42,53	0	guillemotright	
+char >>	"
+char Fc	"
+char …	100,11,-1,89,11	0	ellipsis	
+char el	"
+char  	28	0	nonbreakingspace	
+char À	74,2,0,72,93	2	Agrave	
+char A`	"
+char Ã	74,2,0,72,89	2	Atilde	
+char A~	"
+char Õ	87,6,-2,81,89	2	Otilde	
+char O~	"
+char Œ	119,6,-2,115,74	2	OE	
+char OE	"
+char œ	114,6,-1,108,55	0	oe	
+char oe	"
+char –	50,-1,25,51,31	0	endash	
+char en	"
+char \-	"
+char —	100,-1,25,101,31	0	emdash	
+char em	"
+char --	"
+char “	50,10,47,41,74	2	quotedblleft	
+char ``	"
+char lq	"
+char ”	48,9,47,39,74	2	quotedblright	
+char ''	"
+char rq	"
+char ‘	35,14,47,23,74	2	quoteleft	
+char `	"
+char oq	"
+char ’	35,12,47,21,74	2	quoteright	
+char '	"
+char cq	"
+char ÷	55,3,13,52,59	0	divide	
+char di	"
+char -:	"
+char ◊	49,2,0,47,69	0	lozenge	
+char lz	"
+char ÿ	54,2,-19,52,74	3	ydieresis	
+char y:	"
+char Ÿ	59,3,0,56,89	2	Ydieresis	
+char Y:	"
+char ∕	17,-17,-2,34,74	2	fraction	
+char ¤	55,2,5,54,55	0	currency	
+char xo	"
+char cr	"
+char ‹	25,4,0,22,53	0	guilsinglleft	
+char fo	"
+char ›	25,3,0,22,53	0	guilsinglright	
+char fc	"
+char ﬁ	49,4,0,42,75	2	fi	
+char fi	"
+char ﬂ	49,5,0,42,75	2	fl	
+char fl	"
+char ‡	55,8,-15,48,74	2	daggerdbl	
+char dd	"
+char ∙	28,8,30,20,42	0	periodcentered	
+char ‚	35,13,-13,21,13	0	quotesinglbase	
+char bq	"
+char „	50,10,-13,40,13	0	quotedblbase	
+char ‰	117,2,-5,114,75	2	perthousand	
+char %0	"
+char Â	74,2,0,72,90	2	Acircumflex	
+char A^	"
+char Ê	54,9,0,50,90	2	Ecircumflex	
+char E^	"
+char Á	74,2,0,72,93	2	Aacute	
+char A'	"
+char Ë	54,9,0,50,89	2	Edieresis	
+char E:	"
+char È	54,9,0,50,93	2	Egrave	
+char E`	"
+char Í	23,4,0,25,93	2	Iacute	
+char I'	"
+char Î	23,-6,0,29,90	2	Icircumflex	
+char I^	"
+char Ï	23,-4,0,27,89	2	Idieresis	
+char I:	"
+char Ì	23,-2,0,19,93	2	Igrave	
+char I`	"
+char Ó	87,6,-2,81,93	2	Oacute	
+char O'	"
+char Ô	87,6,-2,81,90	2	Ocircumflex	
+char O^	"
+char 	79	0	apple	
+char Ò	87,6,-2,81,93	2	Ograve	
+char O`	"
+char Ú	66,9,-2,57,93	2	Uacute	
+char U'	"
+char Û	66,9,-2,57,90	2	Ucircumflex	
+char U^	"
+char Ù	66,9,-2,57,93	2	Ugrave	
+char U`	"
+char ı	20,7,0,14,53	0	dotlessi	
+char ˆ	50,7,63,43,75	2	circumflex	
+char ^	"
+char ^a	"
+char ˜	44,4,64,40,74	2	tilde	
+char ~	"
+char ˉ	49,7,66,41,72	0	macron	
+char ˘	45,5,64,40,75	2	breve	
+char Ua	"
+char ˙	22,6,63,17,74	2	dotaccent	
+char .a	"
+char ˚	33,6,62,27,83	2	ring	
+char oa	"
+char ¸	32,7,-19,26,0	1	cedilla	
+char ,,	"
+char ,a	"
+char ˝	55,13,63,49,78	2	hungarumlaut	
+char "a	"
+char ˛	30,9,-19,25,0	1	ogonek	
+char Ca	"
+char ˇ	50,7,63,43,75	2	caron	
+char va	"
+char Ł	52,4,0,49,72	0	Lslash	
+char ł	30,3,0,28,74	2	lslash	
+char Š	50,1,-2,43,90	2	Scaron	
+char S<	"
+char š	39,2,-1,37,75	2	scaron	
+char s<	"
+char Ž	48,3,0,44,90	2	Zcaron	
+char Z<	"
+char ž	43,0,0,42,75	2	zcaron	
+char z<	"
+char ¦	67,30,-19,37,74	3	brokenbar	
+char ||	"
+char Ð	79,2,0,74,72	0	Eth	
+char D-	"
+char ð	66,5,-1,61,74	2	eth	
+char d-	"
+char Ý	59,3,0,56,93	2	Yacute	
+char Y'	"
+char ý	54,2,-19,52,78	3	yacute	
+char y'	"
+char Þ	59,9,0,54,72	0	Thorn	
+char TH	"
+char þ	68,8,-19,63,74	3	thorn	
+char th	"
+char −	61,6,33,55,39	0	minus	
+char mi	"
+char ×	61,10,15,51,57	0	multiply	
+char xx	"
+char mu	"
+char ¹	33,7,36,20,73	2	onesuperior	
+char 1^	"
+char ²	33,0,36,31,74	2	twosuperior	
+char 2^	"
+char ³	34,2,35,32,74	2	threesuperior	
+char 3^	"
+char ½	83,5,-2,77,74	2	onehalf	
+char 12	"
+char ¼	83,6,-2,81,74	2	onequarter	
+char 14	"
+char ¾	83,3,-2,81,74	2	threequarters	
+char 34	"
+char ₣	49,0,0,45,72	0	franc	
+char Ğ	87,6,-2,82,89	2	Gbreve	
+char ğ	67,5,-21,60,75	3	gbreve	
+char İ	23,6,0,17,88	2	Idotaccent	
+char Ş	50,1,-19,43,74	3	Scedilla	
+char ş	39,3,-19,34,55	1	scedilla	
+char Ć	81,5,-2,76,92	2	Cacute	
+char ć	65,5,-1,59,78	2	cacute	
+char Č	81,5,-2,76,90	2	Ccaron	
+char C<	"
+char č	65,5,-1,59,75	2	ccaron	
+char c<	"
+char đ	69,5,-1,69,74	2	dmacron	
+char ¯	50,-1,79,51,84	2	overscore	
+char -a	"
+char ·	33,24,31,35,43	0	middot	
+char .^	"
+char 	34,1,36,33,75	2	foursuperior	
+char Ă	74,2,0,72,89	2	Abreve	
+char ă	68,5,-1,61,75	2	abreve	
+char Ą	74,2,-19,74,72	1	Aogonek	
+char ą	68,5,-19,64,55	1	aogonek	
+char Ď	74,9,0,69,90	2	Dcaron	
+char D<	"
+char ď	69,5,-1,72,74	2	dcaron	
+char d<	"
+char Đ	79,2,0,74,72	0	Dslash	
+char Ę	54,9,-19,50,72	1	Eogonek	
+char ę	65,5,-19,60,55	1	eogonek	
+char Ě	54,9,0,50,90	2	Ecaron	
+char ě	65,5,-1,60,75	2	ecaron	
+char e<	"
+char Ĳ	71,8,-2,62,72	0	IJ	
+char ĳ	40,4,-21,36,75	3	ij	
+char Ĺ	46,9,0,44,93	2	Lacute	
+char ĺ	20,4,0,25,93	2	lacute	
+char Ľ	46,9,0,44,72	0	Lcaron	
+char ľ	21,7,0,25,74	2	lcaron	
+char Ŀ	46,9,0,44,72	0	Ldot	
+char ŀ	26,7,0,29,74	2	ldot	
+char Ń	74,9,0,65,93	2	Nacute	
+char ń	61,8,0,54,78	2	nacute	
+char Ň	74,9,0,65,90	2	Ncaron	
+char ň	61,8,0,54,75	2	ncaron	
+char n<	"
+char ŉ	61,-3,0,54,74	2	napostrophe	
+char Ő	87,6,-2,81,93	2	Odblacute	
+char O"	"
+char ő	66,5,-1,60,78	2	odblacute	
+char o"	"
+char Ŕ	61,9,0,55,93	2	Racute	
+char ŕ	30,5,0,32,78	2	racute	
+char Ř	61,9,0,55,90	2	Rcaron	
+char R<	"
+char ř	30,-2,0,34,75	2	rcaron	
+char r<	"
+char Ś	50,1,-2,43,93	2	Sacute	
+char ś	39,3,-1,34,78	2	sacute	
+char Ţ	43,2,-21,41,72	1	Tcedilla	
+char ţ	34,4,-21,31,73	3	tcedilla	
+char Ť	43,2,0,41,90	2	Tcaron	
+char T<	"
+char ť	34,4,0,32,74	2	tcaron	
+char t<	"
+char Ů	66,9,-2,57,97	2	Uring	
+char U*	"
+char ů	61,7,-1,53,83	2	uring	
+char u*	"
+char Ű	66,9,-2,58,93	2	Udblacute	
+char U"	"
+char ű	61,7,-1,55,78	2	udblacute	
+char u"	"
+char Ź	48,3,0,44,93	2	Zacute	
+char ź	43,0,0,42,78	2	zacute	
+char Ż	48,3,0,44,89	2	Zdot	
+char ż	43,0,0,42,74	2	zdot	
+char 	54,9,0,52,72	0	noGamma	
+char 	75,6,-2,69,73	2	noTheta	
+char 	84,6,-9,78,73	2	noPhi	
+char 	63,5,-1,59,53	0	noalpha	
+char 	62,5,-1,57,76	2	nodelta	
+char 	51,5,-1,46,53	0	noepsilon	
+char 	68,5,-1,66,53	0	nosigma	
+char 	48,2,0,46,52	0	notau	
+char 	77,5,-19,72,65	1	nophi	
+char ‗	50,-1,-21,51,-7	1	underscoredbl	
+char ′	20,6,51,16,74	2	minute	
+char fm	"
+char ″	31,2,51,31,74	2	second	
+char ‼	53,9,-1,44,74	2	exclamdbl	
+char ⁿ	36,4,28,32,62	0	nsuperior	
+char ₧	108,9,-1,104,73	2	peseta	
+char ℅	87,2,-2,85,74	2	afii61248	
+char ℓ	36,2,-1,33,73	2	afii61289	
+char ←	100,4,8,96,43	0	arrowleft	
+char <-	"
+char ↑	50,8,-21,43,71	1	arrowup	
+char ua	"
+char →	100,4,8,96,43	0	arrowright	
+char ->	"
+char ↓	50,8,-21,43,71	1	arrowdown	
+char da	"
+char ↔	100,4,8,96,43	0	arrowboth	
+char ab	"
+char <>	"
+char ↕	50,7,-21,43,71	1	arrowupdn	
+char ↨	50,7,-30,43,71	1	arrowupdnbse	
+char ∟	98,18,0,80,63	0	orthogonal	
+char ∩	59,6,0,53,73	2	intersection	
+char ca	"
+char ≡	61,6,13,55,59	0	equivalence	
+char ==	"
+char □	60,7,0,53,46	0	H22073	
+char ▪	35,6,22,29,44	0	H18543	
+char ▫	35,6,22,29,44	0	H18551	
+char ●	60,9,7,52,50	0	H18533	
+char ◦	35,6,21,30,45	0	openbullet	
+char 	33,9,-25,22,-6	1	commaaccent	
+char Ā	74,2,0,72,87	2	Amacron	
+char ā	68,5,-1,61,72	0	amacron	
+char Ĉ	81,5,-2,76,90	2	Ccircumflex	
+char ĉ	65,5,-1,59,75	2	ccircumflex	
+char Ċ	81,5,-2,76,89	2	Cdot	
+char ċ	65,5,-1,59,74	2	cdot	
+char Ē	54,9,0,50,87	2	Emacron	
+char ē	65,5,-1,60,72	0	emacron	
+char Ĕ	54,9,0,50,89	2	Ebreve	
+char ĕ	65,5,-1,60,75	2	ebreve	
+char Ė	54,9,0,50,89	2	Edot	
+char ė	65,5,-1,60,74	2	edot	
+char Ĝ	87,6,-2,82,90	2	Gcircumflex	
+char ĝ	67,5,-21,60,75	3	gcircumflex	
+char Ġ	87,6,-2,82,89	2	Gdot	
+char ġ	67,5,-21,60,74	3	gdot	
+char Ģ	87,6,-19,82,74	3	Gcedilla	
+char ģ	67,5,-21,60,89	3	gcedilla	
+char Ĥ	68,9,0,60,90	2	Hcircumflex	
+char ĥ	61,8,0,54,90	2	hcircumflex	
+char Ħ	68,2,0,66,72	0	Hbar	
+char ħ	61,0,0,54,74	2	hbar	
+char Ĩ	23,-7,0,29,89	2	Itilde	
+char ĩ	20,-8,0,28,74	2	itilde	
+char Ī	23,-6,0,28,87	2	Imacron	
+char ī	20,-7,0,27,72	0	imacron	
+char Ĭ	23,-6,0,29,89	2	Ibreve	
+char ĭ	20,-7,0,27,75	2	ibreve	
+char Į	23,4,-19,20,72	1	Iogonek	
+char į	20,2,-19,18,75	3	iogonek	
+char Ĵ	48,4,-2,48,90	2	Jcircumflex	
+char ĵ	20,-8,-21,28,75	3	jcircumflex	
+char Ķ	59,9,-19,57,72	1	Kcedilla	
+char ķ	50,8,-19,51,74	3	kcedilla	
+char ĸ	50,8,0,51,53	0	kgreenlandic	
+char Ļ	46,9,-19,44,72	1	Lcedilla	
+char ļ	20,-1,-19,18,74	3	lcedilla	
+char Ņ	74,9,-19,65,72	1	Ncedilla	
+char ņ	61,8,-19,54,55	1	ncedilla	
+char Ŋ	78,9,-2,72,74	2	Eng	
+char ŋ	61,8,-21,54,55	1	eng	
+char Ō	87,6,-2,81,87	2	Omacron	
+char ō	66,5,-1,60,72	0	omacron	
+char Ŏ	87,6,-2,81,89	2	Obreve	
+char ŏ	66,5,-1,60,75	2	obreve	
+char Ŗ	61,9,-19,55,72	1	Rcedilla	
+char ŗ	30,4,-19,32,55	1	rcedilla	
+char Ŝ	50,1,-2,43,90	2	Scircumflex	
+char ŝ	39,2,-1,37,75	2	scircumflex	
+char Ŧ	43,2,0,41,72	0	Tbar	
+char ŧ	34,3,0,33,73	2	tbar	
+char Ũ	66,9,-2,57,89	2	Utilde	
+char ũ	61,7,-1,53,74	2	utilde	
+char Ū	66,9,-2,57,87	2	Umacron	
+char ū	61,7,-1,53,72	0	umacron	
+char Ŭ	66,9,-2,57,89	2	Ubreve	
+char ŭ	61,7,-1,53,75	2	ubreve	
+char Ų	66,9,-19,57,72	1	Uogonek	
+char ų	61,7,-19,53,53	1	uogonek	
+char Ŵ	96,5,0,91,90	2	Wcircumflex	
+char ŵ	83,0,0,83,75	2	wcircumflex	
+char Ŷ	59,3,0,56,90	2	Ycircumflex	
+char ŷ	54,2,-19,52,75	3	ycircumflex	
+char ſ	20,7,0,25,75	2	longs	
+char Ǻ	74,2,0,72,106	2	Aringacute	
+char ǻ	68,5,-1,61,98	2	aringacute	
+char Ǽ	99,0,0,91,93	2	AEacute	
+char ǽ	116,6,-1,110,78	2	aeacute	
+char Ǿ	87,6,-5,81,93	2	Oslashacute	
+char ǿ	65,5,-4,60,78	2	oslashacute	
+char ΄	38,15,62,23,78	2	tonos	
+char ΅	38,3,62,35,78	2	dieresistonos	
+char Ά	74,2,0,72,74	2	Alphatonos	
+char ·	28,9,42,21,55	0	anoteleia	
+char Έ	58,-5,0,54,74	2	Epsilontonos	
+char Ή	73,-5,0,64,74	2	Etatonos	
+char Ί	27,-5,0,19,74	2	Iotatonos	
+char Ό	87,-5,-2,81,74	2	Omicrontonos	
+char Ύ	65,-5,0,62,74	2	Upsilontonos	
+char Ώ	84,-5,0,77,74	2	Omegatonos	
+char ΐ	20,-6,0,26,78	2	iotadieresistonos	
+char Α	74,2,0,72,72	0	Alpha	
+char *A	"
+char Β	57,9,0,52,72	0	Beta	
+char *B	"
+char Γ	46,9,0,45,72	0	Gamma	
+char *G	"
+char Δ	74,2,0,72,72	0	Delta	
+char ∆	"
+char *D	"
+char Ε	54,9,0,50,72	0	Epsilon	
+char *E	"
+char Ζ	48,3,0,44,72	0	Zeta	
+char *Z	"
+char Η	68,9,0,60,72	0	Eta	
+char *Y	"
+char Θ	87,6,-2,81,74	2	Theta	
+char *H	"
+char Ι	23,8,0,15,72	0	Iota	
+char *I	"
+char Κ	59,9,0,57,72	0	Kappa	
+char *K	"
+char Λ	70,3,0,67,72	0	Lambda	
+char *L	"
+char Μ	92,6,0,86,72	0	Mu	
+char *M	"
+char Ν	74,9,0,65,72	0	Nu	
+char *N	"
+char Ξ	53,6,0,48,72	0	Xi	
+char *C	"
+char Ο	87,6,-2,81,74	2	Omicron	
+char *O	"
+char Π	68,9,0,60,72	0	Pi	
+char *P	"
+char Ρ	59,9,0,54,72	0	Rho	
+char *R	"
+char Σ	50,3,0,45,72	0	Sigma	
+char *S	"
+char Τ	43,2,0,41,72	0	Tau	
+char *T	"
+char Υ	59,3,0,56,72	0	Upsilon	
+char *U	"
+char Φ	86,5,0,81,72	0	Phi	
+char *F	"
+char Χ	61,3,0,58,72	0	Chi	
+char *X	"
+char Ψ	79,7,0,72,72	0	Psi	
+char *Q	"
+char Ω	84,6,0,77,74	2	Omega	
+char *W	"
+char Ω	"
+char Ϊ	23,-4,0,27,89	2	Iotadieresis	
+char Ϋ	59,3,0,56,89	2	Upsilondieresis	
+char ά	68,5,-1,61,78	2	alphatonos	
+char έ	42,5,-1,40,78	2	epsilontonos	
+char ή	61,8,-19,54,78	3	etatonos	
+char ί	20,6,0,14,78	2	iotatonos	
+char ΰ	60,7,-1,54,78	2	upsilondieresistonos	
+char α	68,5,-1,61,55	0	alpha	
+char *a	"
+char β	60,8,-19,55,75	3	beta	
+char *b	"
+char γ	55,3,-19,53,53	1	gamma	
+char *g	"
+char δ	57,5,-1,52,75	2	delta	
+char *d	"
+char ε	42,5,-1,40,55	0	epsilon	
+char *e	"
+char ζ	47,6,-21,46,74	3	zeta	
+char *z	"
+char η	61,8,-19,54,55	1	eta	
+char *y	"
+char θ	66,5,-1,60,75	2	theta	
+char *h	"
+char ι	20,7,0,14,53	0	iota	
+char *i	"
+char κ	50,8,0,51,53	0	kappa	
+char *k	"
+char λ	54,2,0,52,74	2	lambda	
+char *l	"
+char μ	61,7,-19,53,53	1	mu	
+char *m	"
+char µ	"
+char /u	"
+char ν	55,3,0,53,53	0	nu	
+char *n	"
+char ξ	47,6,-21,46,75	3	xi	
+char *c	"
+char ο	66,5,-1,60,55	0	omicron	
+char *o	"
+char π	67,2,0,65,53	0	pi	
+char *p	"
+char ρ	67,7,-19,62,55	1	rho	
+char *r	"
+char ς	58,5,-21,55,55	1	sigma1	
+char ts	"
+char σ	72,5,-1,70,55	0	sigma	
+char *s	"
+char τ	40,2,0,38,53	0	tau	
+char *t	"
+char υ	60,7,-1,54,55	0	upsilon	
+char *u	"
+char φ	77,5,-19,72,55	1	phi	
+char *f	"
+char χ	48,0,-19,48,53	1	chi	
+char *x	"
+char ψ	74,7,-19,67,53	1	psi	
+char *q	"
+char ω	86,5,-1,81,55	0	omega	
+char *w	"
+char ϊ	20,-6,0,26,74	2	iotadieresis	
+char ϋ	60,7,-1,54,74	2	upsilondieresis	
+char ό	66,5,-1,60,78	2	omicrontonos	
+char ύ	60,7,-1,54,78	2	upsilontonos	
+char ώ	86,5,-1,81,78	2	omegatonos	
+char Ё	54,9,0,50,89	2	afii10023	
+char Ђ	67,2,-2,62,72	0	afii10051	
+char Ѓ	46,9,0,45,93	2	afii10052	
+char Є	81,6,-2,76,74	2	afii10053	
+char Ѕ	50,1,-2,43,74	2	afii10054	
+char І	23,8,0,15,72	0	afii10055	
+char Ї	23,-4,0,27,89	2	afii10056	
+char Ј	48,4,-2,40,72	0	afii10057	
+char Љ	107,2,0,101,72	0	afii10058	
+char Њ	104,9,0,99,72	0	afii10059	
+char Ћ	68,2,0,62,72	0	afii10060	
+char Ќ	59,9,0,57,93	2	afii10061	
+char Ў	65,3,-2,61,89	2	afii10062	
+char Џ	65,9,-11,56,72	0	afii10145	
+char А	74,2,0,72,72	0	afii10017	
+char Б	57,9,0,52,72	0	afii10018	
+char В	57,9,0,52,72	0	afii10019	
+char Г	46,9,0,45,72	0	afii10020	
+char Д	75,2,-11,73,72	0	afii10021	
+char Е	54,9,0,50,72	0	afii10022	
+char Ж	94,2,0,92,72	0	afii10024	
+char З	58,5,-2,53,74	2	afii10025	
+char И	74,9,0,65,72	0	afii10026	
+char Й	74,9,0,65,89	2	afii10027	
+char К	59,9,0,57,72	0	afii10028	
+char Л	70,3,0,67,72	0	afii10029	
+char М	92,6,0,86,72	0	afii10030	
+char Н	68,9,0,60,72	0	afii10031	
+char О	87,6,-2,81,74	2	afii10032	
+char П	68,9,0,60,72	0	afii10033	
+char Р	59,9,0,54,72	0	afii10034	
+char С	81,5,-2,76,74	2	afii10035	
+char Т	43,2,0,41,72	0	afii10036	
+char У	65,3,-2,61,72	0	afii10037	
+char Ф	87,6,0,81,72	0	afii10038	
+char Х	61,3,0,58,72	0	afii10039	
+char Ц	71,9,-11,69,72	0	afii10040	
+char Ч	54,2,0,45,72	0	afii10041	
+char Ш	101,9,0,92,72	0	afii10042	
+char Щ	107,9,-11,104,72	0	afii10043	
+char Ъ	68,2,0,63,72	0	afii10044	
+char Ы	79,9,0,71,72	0	afii10045	
+char Ь	61,9,0,55,72	0	afii10046	
+char Э	81,5,-2,76,74	2	afii10047	
+char Ю	110,9,-2,104,74	2	afii10048	
+char Я	58,4,0,50,72	0	afii10049	
+char а	68,5,-1,61,55	0	afii10065	
+char б	67,5,-1,62,75	2	afii10066	
+char в	47,8,0,42,53	0	afii10067	
+char г	36,8,0,35,53	0	afii10068	
+char д	61,2,-7,59,53	0	afii10069	
+char е	65,5,-1,60,55	0	afii10070	
+char ж	77,-1,0,77,53	0	afii10072	
+char з	42,3,-1,38,55	0	afii10073	
+char и	62,8,0,54,53	0	afii10074	
+char й	62,8,0,54,75	2	afii10075	
+char к	50,8,0,51,53	0	afii10076	
+char л	55,3,0,53,53	0	afii10077	
+char м	88,3,0,85,53	0	afii10078	
+char н	60,8,0,52,53	0	afii10079	
+char о	66,5,-1,60,55	0	afii10080	
+char п	60,8,0,52,53	0	afii10081	
+char р	68,8,-19,63,55	1	afii10082	
+char с	65,5,-1,59,55	0	afii10083	
+char т	38,2,0,37,53	0	afii10084	
+char у	54,2,-19,52,53	1	afii10085	
+char ф	108,5,-19,103,74	3	afii10086	
+char х	48,0,0,48,53	0	afii10087	
+char ц	65,8,-8,64,53	0	afii10088	
+char ч	46,3,0,38,53	0	afii10089	
+char ш	95,8,0,87,53	0	afii10090	
+char щ	100,8,-8,99,53	0	afii10091	
+char ъ	52,3,0,49,53	0	afii10092	
+char ы	67,8,0,60,53	0	afii10093	
+char ь	47,8,0,44,53	0	afii10094	
+char э	64,5,-1,59,55	0	afii10095	
+char ю	84,8,-1,79,55	0	afii10096	
+char я	45,3,0,37,53	0	afii10097	
+char ё	65,5,-1,60,74	2	afii10071	
+char ђ	63,2,-21,56,74	3	afii10099	
+char ѓ	36,8,0,36,78	2	afii10100	
+char є	64,5,-1,59,55	0	afii10101	
+char ѕ	39,3,-1,34,55	0	afii10102	
+char і	20,4,0,16,75	2	afii10103	
+char ї	20,-6,0,26,74	2	afii10104	
+char ј	20,-3,-21,16,75	3	afii10105	
+char љ	79,3,0,76,53	0	afii10106	
+char њ	85,8,0,81,53	0	afii10107	
+char ћ	63,2,0,56,74	2	afii10108	
+char ќ	50,8,0,51,78	2	afii10109	
+char ў	54,2,-19,52,75	3	afii10110	
+char џ	60,8,-8,52,53	0	afii10193	
+char Ґ	41,9,0,39,82	2	afii10050	
+char ґ	36,8,0,33,60	0	afii10098	
+char Ẁ	96,5,0,91,93	2	Wgrave	
+char ẁ	83,0,0,83,78	2	wgrave	
+char Ẃ	96,5,0,91,93	2	Wacute	
+char ẃ	83,0,0,83,78	2	wacute	
+char Ẅ	96,5,0,91,89	2	Wdieresis	
+char ẅ	83,0,0,83,74	2	wdieresis	
+char Ỳ	59,3,0,56,93	2	Ygrave	
+char ỳ	54,2,-19,52,78	3	ygrave	
+char ―	75,-1,25,76,31	0	afii00208	
+char ‛	35,14,47,23,74	2	quotereversed	
+char ‾	55,-2,52,58,91	2	radicalex	
+char ₤	55,3,-2,53,74	2	afii08941	
+char №	110,9,0,107,72	0	afii61352	
+char ℮	60,4,-2,56,54	0	estimated	
+char ⅛	83,7,-2,81,74	2	oneeighth	
+char ⅜	83,2,-2,81,74	2	threeeighths	
+char ⅝	83,2,-2,81,74	2	fiveeighths	
+char ⅞	83,4,-2,81,74	2	seveneighths	
+char ⌂	60,8,0,53,56	0	house	
+char ⌐	61,6,22,55,50	0	revlogicalnot	
+char ⌠	60,27,-25,48,85	3	integraltp	
+char ⌡	60,13,-25,34,85	3	integralbt	
+char ─	71,-1,26,72,35	0	SF100000	
+char │	71,31,-30,40,91	3	SF110000	
+char ┌	71,31,-30,72,35	1	SF010000	
+char ┐	71,-1,-30,40,35	1	SF030000	
+char └	71,31,26,72,91	2	SF020000	
+char ┘	71,-1,26,40,91	2	SF040000	
+char ├	71,31,-30,72,91	3	SF080000	
+char ┤	71,-1,-30,40,91	3	SF090000	
+char ┬	71,-1,-30,72,35	1	SF060000	
+char ┴	71,-1,26,72,91	2	SF070000	
+char ┼	71,-1,-30,72,91	3	SF050000	
+char ═	71,-1,17,72,44	0	SF430000	
+char ║	71,22,-30,49,91	3	SF240000	
+char ╒	71,31,-30,72,44	1	SF510000	
+char ╓	71,22,-30,72,35	1	SF520000	
+char ╔	71,22,-30,72,44	1	SF390000	
+char ╕	71,-1,-30,40,44	1	SF220000	
+char ╖	71,-1,-30,49,35	1	SF210000	
+char ╗	71,-1,-30,49,44	1	SF250000	
+char ╘	71,31,17,72,91	2	SF500000	
+char ╙	71,22,26,72,91	2	SF490000	
+char ╚	71,22,17,72,91	2	SF380000	
+char ╛	71,-1,17,40,91	2	SF280000	
+char ╜	71,-1,26,49,91	2	SF270000	
+char ╝	71,-1,17,49,91	2	SF260000	
+char ╞	71,31,-30,72,91	3	SF360000	
+char ╟	71,22,-30,72,91	3	SF370000	
+char ╠	71,22,-30,72,91	3	SF420000	
+char ╡	71,-1,-30,40,91	3	SF190000	
+char ╢	71,-1,-30,49,91	3	SF200000	
+char ╣	71,-1,-30,49,91	3	SF230000	
+char ╤	71,-1,-30,72,44	1	SF470000	
+char ╥	71,-1,-30,72,35	1	SF480000	
+char ╦	71,-1,-30,72,44	1	SF410000	
+char ╧	71,-1,17,72,91	2	SF450000	
+char ╨	71,-1,26,72,91	2	SF460000	
+char ╩	71,-1,17,72,91	2	SF400000	
+char ╪	71,-1,-30,72,91	3	SF540000	
+char ╫	71,-1,-30,72,91	3	SF530000	
+char ╬	71,-1,-30,72,91	3	SF440000	
+char ▀	71,-1,30,72,91	2	upblock	
+char ▄	71,-1,-30,72,30	1	dnblock	
+char █	71,-1,-30,72,91	3	block	
+char ▌	71,-1,-30,36,91	3	lfblock	
+char ▐	71,36,-30,72,91	3	rtblock	
+char ░	71,5,-25,72,91	3	ltshade	
+char ▒	71,-1,-25,72,91	3	shade	
+char ▓	73,0,-31,73,91	3	dkshade	
+char ■	60,7,0,53,46	0	filledbox	
+char ▬	100,0,16,100,34	0	filledrect	
+char ▲	99,15,0,84,69	0	triagup	
+char ►	99,14,-2,85,69	0	triagrt	
+char ▼	99,15,-2,84,68	0	triagdn	
+char ◄	99,14,-2,85,69	0	triaglf	
+char ○	60,9,7,52,50	0	circle	
+char ci	"
+char ◘	60,6,0,54,48	0	invbullet	
+char ◙	60,2,0,58,56	0	invcircle	
+char ☺	102,20,-6,82,56	0	smileface	
+char ☻	105,22,-6,84,56	0	invsmileface	
+char ☼	92,1,-11,91,79	2	sun	
+char ♀	55,4,-17,51,70	0	female	
+char ♂	67,5,-17,63,67	0	male	
+char ♠	53,3,0,50,60	0	spade	
+char ♣	66,3,0,63,60	0	club	
+char ♥	59,3,-1,56,60	0	heart	
+char ♦	51,3,-1,48,60	0	diamond	
+char ♪	77,1,-23,76,75	3	musicalnote	
+char ♫	100,15,-22,86,73	3	musicalnotedbl	
+char 	32,5,-19,24,-6	1	undercommaaccent	
+char €	55,2,-2,55,74	2	Euro	
