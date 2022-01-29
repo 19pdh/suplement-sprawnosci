@@ -1,0 +1,12 @@
+<svg width="915" height="915" viewBox="0 0 915 915" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="457.499" cy="457.499" r="413.339" stroke="#040505" stroke-width="88.3194" stroke-dasharray="126.17 100.94"/>
+<mask id="mask0_406_102" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="915" height="915">
+<circle cx="457.501" cy="457.499" r="413.339" stroke="black" stroke-width="88.3194"/>
+</mask>
+<g mask="url(#mask0_406_102)">
+<rect x="-172.662" y="-42.8511" width="613.78" height="531.858" fill="#040505"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M504.415 520.023L258 581.461L298.885 745.441L753.953 631.98L713.069 468L624.968 489.966L713 499.052L615.887 513.671L687.148 604.464L612.72 556.467L605.813 653L582.104 556.467L528.403 634.215L544.625 548.64L457 578.383L528.403 531.227L504.415 520.023Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M597.412 472.448L579.464 354L560.461 467.761L457 423.399L544.625 499.051L470.724 504.287L504.415 520.023L624.968 489.966L622.079 489.668L665.157 417.137L597.412 472.448Z" fill="black"/>
+<rect x="379.769" y="191" width="298.343" height="23" transform="rotate(54.691 379.769 191)" fill="black"/>
+</svg>

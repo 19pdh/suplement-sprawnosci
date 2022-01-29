@@ -2,6 +2,72 @@
 
 
 .## ŁUCZNICTWO
+
+
+.bp
+
+
+
+
+.## SPAWANIE
+.br
+.tagi #metal #spawarka #łuk_elektryczny #zgrzewanie #spoiwo
+
+Praca spawacza mnie przeistacza, z piórka na wietrze w lodołamacza.
+.br
+Gdy ściskam w dłoni pręt spawalniczy, wtedy nie umiem myśleć o niczym.
+.br
+Jak tylko trwale łączyć metale - spawam na oślep w obłędnym szale:
+.br
+stale, żelaza, chromy, tytany - ten dar od niebios został mi dany.
+.br
+Na miejsce pracy wybrałem stocznie, lecz przyszło stocznie rzucić niezwłocznie.
+.br
+A to za sprawą niewinnej wpadki, gdy zespawałem ze sobą statki.
+.br
+Wpadka znalazła miejsce w papierach, więc umów ze mną nikt nie zawiera.
+.br
+I ludzi dobrych teraz wciąż proszę, bym mógł zespawać coś choć za grosze.
+.br
+.ad r
+T\(enRaperzy, Piosenka spawacza
+.br
+.ad b
+
+.krazek lut.pdf
+.po +10
+.ll -10
+\fB* Lut\fR
+
+● Potrafi połączyć dwa metale.
+.br
+.po -10
+.ll +10
+.sp 4
+
+
+.krazek spawacz.pdf
+.po +10
+.ll -10
+\fB** Spawacz\fR
+
+● Potrafi zespawać dwa kątowniki pod kątem prostym.
+.br
+.po -10
+.ll +10
+.sp 4
+
+
+.krazek metalowiec.pdf
+.po +10
+.ll -10
+\fB*** Metalowiec\fR
+
+● Jest mistrzem spawania.
+.br
+.po -10
+.ll +10
+.sp 4
 .bp
 
 
@@ -66,7 +132,7 @@ gen. Robert Baden-Powell
 
 \f(BISprawności z tego drzewka przyznawane są w ramach kursu zastępowych naszego hufca. Każdy może zawsze i wszędzie zdobywać tą sprawność, ale przyznawana ona jest tylko raz w roku, na apelu kończącym kurs zastępowych\fR
 
-.krazek awangarda.pdf
+.krazek awangarda1.pdf
 .po +10
 .ll -10
 \fB* Awangarda I\fR
@@ -80,7 +146,7 @@ gen. Robert Baden-Powell
 .po -10
 .ll +10
 
-.krazek awangarda.pdf
+.krazek awangarda2.pdf
 .po +10
 .ll -10
 \fB** Awangarda II\fR
@@ -100,7 +166,7 @@ Np.: Zakradnij się na zbiórkę zastępu jednego z kursantów i zanotuj co harc
 .po -10
 .ll +10
 
-.krazek awangarda.pdf
+.krazek awangarda3.pdf
 .po +10
 .ll -10
 \fB*** Awangarda III\fR
