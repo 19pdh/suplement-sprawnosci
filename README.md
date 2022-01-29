@@ -5,5 +5,5 @@
 ## PDF:
 
 ```
-neatroff -Ffonts -mpost suplement.tr | neatpdf -pa4 > suplement.pdf
+soelim suplement.tr | sed 's/ \([i|w|z]\) / \1\\~/g' | neatroff -Ffonts -mpost | neatpdf -pa4 > suplement.pdf
 ```
