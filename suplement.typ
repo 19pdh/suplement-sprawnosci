@@ -23,7 +23,7 @@ IV Poznański Hufiec Harcerzy “Rotunda”
 
 Poznań, sierpień 2024
 
-github.com/19pdh/suplement
+github.com/19pdh/suplement-sprawnosci
 
 #pagebreak()
 #set align(left + top)
