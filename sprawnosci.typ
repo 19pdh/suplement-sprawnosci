@@ -28,7 +28,7 @@ Gdybym mógł wybierać miejsce, które chciałbym zajmować w ruchu, to chciał
 == Awangarda II (komenda kursu)
 ● Potrafi zaplanować cykl zbiórka ZZ + zbiórka drużyny sprawdzająca umiejętności zastępów z wybranej techniki i umożliwi zdobywanie sprawności na wszystkich poziomach (\*, \*\*, \*\*\*)
 
-● Potrafi przygotować i przeprowadzić grę, która wyłoni  najlepszy zastęp w wybranej technice
+● Potrafi przygotować i przeprowadzić grę, która wyłoni  naj-lepszy zastęp w wybranej technice
 
 ● Potrafi ocenić zbiórkę pod względem skuteczności i Zasad Dobrej Zbiórki oraz dać pomysł na ulepszenie planu.
 
