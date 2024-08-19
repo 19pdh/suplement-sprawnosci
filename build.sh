@@ -6,5 +6,5 @@ else
     TYPST_FONT_PATHS=fonts typst compile suplement.typ
 fi
 
-cp suplement.pdf html/suplement.pdf
-find krazki -iname '*.png' -o -iname '*.svg' | zip -@ html/krazki.zip
+cp suplement.pdf docs/suplement.pdf
+find krazki -iname '*.png' -o -iname '*.svg' | zip -@ docs/krazki.zip
